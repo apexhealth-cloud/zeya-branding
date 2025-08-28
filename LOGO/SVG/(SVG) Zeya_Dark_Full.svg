@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 170.87">
+  <defs>
+    <style>
+      .cls-1 {
+        font-family: Sora-Medium, 'Sora Medium';
+        font-weight: 500;
+      }
+
+      .cls-2 {
+        font-family: Sora-Bold, Sora;
+        font-variation-settings: 'wght' 700;
+        font-weight: 700;
+      }
+
+      .cls-3 {
+        fill: #3f3f3f;
+      }
+
+      .cls-4 {
+        font-family: Sora-Regular, Sora;
+        font-variation-settings: 'wght' 400;
+      }
+
+      .cls-5 {
+        font-size: 53.29px;
+      }
+
+      .cls-6 {
+        fill: #232323;
+      }
+    </style>
+  </defs>
+  <g id="Layer_1-2" data-name="Layer 1">
+    <g>
+      <text class="cls-5" transform="translate(0 155.74)"><tspan class="cls-2" x="0" y="0">Zeya</tspan><tspan class="cls-1" x="121.23" y="0"> </tspan><tspan class="cls-4" x="130.39" y="0">Health</tspan></text>
+      <g>
+        <path class="cls-6" d="M128.28,48.27c-5.77-4.31-14.95-1.74-18.93,4.27l-13.48,20.33c-8.03,12.13,6.47,26.58,18.02,17.96l26.22-19.56,9.02-6.73h0l-20.85-16.26Z"/>
+        <path class="cls-3" d="M200.82,72.87l-13.48-20.33c-3.98-6.01-13.52-8.97-19.29-4.66l-20.56,16.6h0l9.09,6.79,26.22,19.56c11.56,8.63,26.05-5.82,18.02-17.96Z"/>
+        <path d="M187.33,52.54c-3.98-6.01-12.18-7.43-17.95-3.13l-21.04,15.7-21.04-15.7c-5.77-4.31-13.98-2.88-17.95,3.13L141.8,3.52c1.46-2.2,3.75-3.37,6.08-3.51.31-.02.61-.02.91,0,2.35.14,4.63,1.31,6.09,3.51l32.45,49.02Z"/>
+      </g>
+    </g>
+  </g>
+</svg>

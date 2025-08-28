@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 350 72.36">
+  <defs>
+    <style>
+      .cls-1 {
+        font-family: Sora-Bold, Sora;
+        font-variation-settings: 'wght' 700;
+        font-weight: 700;
+      }
+
+      .cls-2 {
+        font-family: Sora-Regular, Sora;
+        font-variation-settings: 'wght' 400;
+      }
+
+      .cls-3 {
+        font-size: 62.17px;
+      }
+
+      .cls-4 {
+        font-family: Sora-Medium, 'HSHHW E+ Sora';
+        font-weight: 500;
+      }
+    </style>
+  </defs>
+  <g id="Layer_1-2" data-name="Layer 1">
+    <text class="cls-3" transform="translate(0 54.71)"><tspan class="cls-1" x="0" y="0">Zeya</tspan><tspan class="cls-4" x="141.43" y="0"> </tspan><tspan class="cls-2" x="152.12" y="0">Health</tspan></text>
+  </g>
+</svg>
